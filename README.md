@@ -17,4 +17,6 @@ be flipped over horizontally, flipped over vertically, and rotated by 90 degrees
 Check whether the pieces represented in an .xml file are a solution to a tangram puzzle represented
 in another .xml file. 
 
-**Note that this was my first 'large' coding assignment completed - Received 11.2 out of 13.**
+#### Notes
+
+**This was my first 'large' coding assignment completed - Received 11.2 out of 13.**
